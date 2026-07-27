@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hari3412tyagi?theme=dark&font=Baloo&ext=contest)
 
 <!--
 **Hari3412tyagi/Hari3412tyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
